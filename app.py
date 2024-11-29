@@ -68,6 +68,7 @@ def run() -> None:
     open_calc()
     time.sleep(2)
     open_img_and_click()
+    print('Успешно!')
 
 
 if __name__ == '__main__':
